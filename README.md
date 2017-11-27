@@ -3,7 +3,7 @@ Phonegap MD5 checksum plugin for Android and iOS. The plugin reads large files i
 
 ## install
 ```
-yourAppDir$ phonegap plugin add https://github.com/fastrde/phonegap-md5.git
+cordova  plugin add https://github.com/chenxustu1/cordova-plugin-fastrde-md5.git
 ```
 
 ## usage
